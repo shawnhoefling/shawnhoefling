@@ -1,4 +1,6 @@
-### Hi there 👋
+- third-year Computer Science student with hopes to complete studies at Oulu University 
+- working on Android mobile development through Android studios
+- interest in creating technologies in Python, Kotlin, Java, and Javascript, among others. 
 
 <!--
 **shawnhoefling/shawnhoefling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
