@@ -12,7 +12,7 @@
 
 
 
-> [Email](mailto:shawnhoefling@gmail.com)      [LinkedIn](https://www.linkedin.com/in/shawn-hoefling-46260b152/)     [Instagram](https://www.instagram.com/shawnhoefling/)
+> [Email](mailto:shawnhoefling@gmail.com) - [LinkedIn](https://www.linkedin.com/in/shawn-hoefling-46260b152/) - [Instagram](https://www.instagram.com/shawnhoefling/)
 
 
 <!--
