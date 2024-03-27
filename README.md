@@ -2,7 +2,9 @@
 > I am currently a third-year Computer Science student with hopes to complete my studies at Oulu University, working to finish my bachelor's and possibly pushing through to my master's as well.
 > Up until now I have taken the usual courses you see in most comprehensive Computer Science courses. Courses like C programming, Discrete Mathematics, and Data Structures and Algorithms, but I have been sure to take many courses wherever I feel a gap in my knowledge.
 > As of now, I am working on Android mobile development, using Android Studio to develop applications in XML, Java, and Kotlin.
-> I have taken a few Finnish courses at Aalto University and I am working daily to improve. 
+> I have taken a few Finnish courses at Aalto University and I am working daily to improve.
+>
+>  - I would love to work for a Finnish based technology company, preferably in Helsinki or Oulu, but I am not very picky!
 
 ## Interest
 > I am interested in developing anything from mobile applications and websites to working on embedded systems and more closely with companies for using software as a solution to a problem. I love being outdoors and in harsh and otherwise interesting environments, so working on a weather system that I develop and maintain programmatically and physically would be perfect. I am not driven by money, but through passion in what I do, the people I work with, and what I am working on.
