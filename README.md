@@ -7,9 +7,6 @@
 >
 
 
-## Interest
-> I am interested in developing anything from mobile applications and websites to working on embedded systems and more closely with companies using software as a solution to a problem. I love being outdoors and in harsh and otherwise interesting environments, so working on a weather system that I develop and maintain programmatically and physically would be perfect. I am not driven by money, but through passion in what I do, the people I work with, and what I am working on.
-
 ## Contact Me
 > If you would like to contact me, I am easy to reach and will usually respond within 24 hours!
 
